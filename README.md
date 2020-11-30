@@ -17,7 +17,7 @@
 
 - **Participant 4** <br>
    Name: Tara Lozy <br> 
-   Email: 
+   Email: tlozy@stevens.edu
 
 - **Participant 5** <br>
    Name: Zhengyang (Sheldon) Zhang <br> 
