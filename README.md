@@ -22,3 +22,8 @@
 - **Participant 5** <br>
    Name: Zhengyang (Sheldon) Zhang <br> 
    Email: zzhan67@stevens.edu
+
+### Working Progress code can be found on the following repo: 
+https://github.com/zzy98y/Stats_Project
+
+
